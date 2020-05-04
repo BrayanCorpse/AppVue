@@ -29,9 +29,9 @@ Vue.component('tasks', {
       return {
     newTask: "",
     tasks:[
-        {title: "Aprender PHP",completed: true},
-        {title:"Aprender Laravel",completed: true},
-        {title:"Aprender Vue.js",completed: false}
+        {title: "Learn PHP",completed: true},
+        {title:"Learn Laravel",completed: true},
+        {title:"Learn Vue.js",completed: false}
         ]
     }
 },
